@@ -27,4 +27,4 @@
   ## Questions:
   Any questions you may have, don't hesitate to reach out, below is my contact info.
   Github: https://github.com/alexzoo0
-  Email: alexisvelasquez15@gmai.com
+  Email: alexisvelasquez15@gmail.com
